@@ -13,7 +13,7 @@ export const store = new Vuex.Store({
         phone: "0123456789",
         address: "123, Some Street\nLeicester\nLE1 2AB",
         email: "cf@gmail.com",
-        website: "carlofranzel.li",
+        website: "carlofrce GitHub API and any pul.li",
         notes: ""
       },
       {
